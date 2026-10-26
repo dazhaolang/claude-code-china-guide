@@ -1,7 +1,7 @@
 # 2026 Claude Code 国内稳定使用、防封环境与独享账号对比指南（支持 Claude Opus 5.5）
 
 [![Official Site](https://img.shields.io/badge/官方网站-claudeagent.com.cn-0f766e?style=for-the-badge)](https://claudeagent.com.cn)
-[![Rentals](https://img.shields.io/badge/独享Pro选号-¥220%20%2F%2030天%20(老客¥205)-0b514c?style=for-the-badge)](https://claudeagent.com.cn/console/rentals)
+[![Rentals](https://img.shields.io/badge/独享Pro选号-¥225%20%2F%2030天%20(老客¥205)-0b514c?style=for-the-badge)](https://claudeagent.com.cn/console/rentals)
 [![Telegram Group](https://img.shields.io/badge/Telegram_售后群-加入交流-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/+aYfNuJJJ-hQ5YTg1)
 [![Telegram Bot](https://img.shields.io/badge/实时现货_Bot-@ourclaudeagent__bot-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/ourclaudeagent_bot)
 
@@ -49,7 +49,7 @@ claude
 | **2. 合租 / 拼车车位** | ¥300 ~ ¥500 / 人 | 2~5 人共用同一个官方号，按面板或转发分摊 | **高峰期抢额度 + 丢缓存**。同车有人跑大任务打满 5 小时窗口，其他人全部报 `429`；多人轮询还会击穿 Prompt Cache。 |
 | **3. 积分镜像站 / 套餐中转** | ¥259 ~ ¥1,928 / 月 | 站内自设积分或每日名义美元限额（背后是百人共享池） | **非官方整号交付**。名字叫 Pro/Max 套餐，实际按复杂的模型倍率和缓存倍率扣站内积分，重度用几天就见底。 |
 | **4. 纯按量 API 中转** | 按 Token 充值扣费 | 标准 API Key，按每次输入输出 Token 计费 | 适合低频问答。**一旦用 Claude Code 跑代码重构（单轮上下文动辄 100k+ Tokens），一天烧掉 $15~$30 家常便饭**。 |
-| **5. 物理级「一机一线一号」独享月租**<br>（[**Claude Agent**](https://claudeagent.com.cn)） | **Pro ¥220 / 30 天全包**<br>（老客续费/增购 **¥205**，受邀首台 **¥210**）<br>Max 5x ¥250 / 周 · Max 20x ¥500 / 周 | **1 个官方整号 + 1 台独立隔离 VM + 1 条美国静态住宅 IP + 专属直连 Key** | **不按 Token 扣费**，100% 独占该官方账号原生 5h / 7d 窗口额度；开通前随时全额退，中途退订按天结算。 |
+| **5. 物理级「一机一线一号」独享月租**<br>（[**Claude Agent**](https://claudeagent.com.cn)） | **Pro ¥225 / 30 天全包**<br>（老客续费/增购 **¥205**，受邀首台 **¥215**）<br>Max 5x ¥250 / 周 · Max 20x ¥500 / 周 | **1 个官方整号 + 1 台独立隔离 VM + 1 条美国静态住宅 IP + 专属直连 Key** | **不按 Token 扣费**，100% 独占该官方账号原生 5h / 7d 窗口额度；开通前随时全额退，中途退订按天结算。 |
 
 ---
 
@@ -85,7 +85,7 @@ Anthropic 的风控核心检测三件事：**支付卡段一致性、登录设�
 | :--- | :--- | :--- |
 | **🏠 官方网站首页** | <https://claudeagent.com.cn> | 独享账号月租、账号托管与兼容 API 网关总览 |
 | **🛒 独享账号选号台** | <https://claudeagent.com.cn/console/rentals> | 实时查看在售 Pro / Max 独享现货，选号即开 |
-| **💰 服务与价格总览** | <https://claudeagent.com.cn/buy/> | Pro 月租 ¥220 全包（老客 ¥205 / 受邀首台 ¥210）、成品号、代充与按量 API 价格 |
+| **💰 服务与价格总览** | <https://claudeagent.com.cn/buy/> | Pro 月租 ¥225 全包（老客 ¥205 / 受邀首台 ¥215）、成品号、代充与按量 API 价格 |
 | **🛡️ 防封环境说明** | <https://claudeagent.com.cn/rental-security/> | 一机一线一号、美区静态住宅 IP 与风控隔离细节 |
 | **🖥️ 自有账号托管** | <https://claudeagent.com.cn/claude-tuoguan/> | 把你自己的 Claude 账号放入我们的隔离住宅环境运行 |
 | **⚡ Claude Code 配置** | <https://claudeagent.com.cn/guides/claude-code/> | macOS / Linux / Windows 环境变量与常见排障 |
